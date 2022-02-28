@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several proposals for peace &amp; freedom, by an agreement of the people, offered unto Commissary General Ireton for the concurrence of the Army, by the approbation and consent of many worthy persons of the Common Councel and others of the city of London, on the eleventh of this instant December, to be agreed unto, and subscribed by all the inhabitants of England &amp; VVales.</title>
+            <author>Jubbes, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92997</idno>
+            <idno type="STC">Wing S2799</idno>
+            <idno type="STC">Thomason E477_18</idno>
+            <idno type="STC">ESTC R21362</idno>
+            <idno type="EEBO-CITATION">99871412</idno>
+            <idno type="PROQUEST">99871412</idno>
+            <idno type="VID">162530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92997)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162530)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E477[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several proposals for peace &amp; freedom, by an agreement of the people, offered unto Commissary General Ireton for the concurrence of the Army, by the approbation and consent of many worthy persons of the Common Councel and others of the city of London, on the eleventh of this instant December, to be agreed unto, and subscribed by all the inhabitants of England &amp; VVales.</title>
+                  <author>Jubbes, John.</author>
+                  <author>Ireton, Henry, 1611-1651.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J: Hanes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decemb. 22. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Jubbes.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>City of London (England). --  Court of Common Council.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162530:1" rendition="simple:additions"/>
+            <p>SEVERAL PROPOSALS FOR Peace &amp; Freedom, BY AN AGREEMENT OF THE PEOPLE, Offered unto Commiſſary General <hi>IRETON</hi> for the Con<g ref="char:EOLhyphen"/>currence of the Army, by the Approbation and Conſent of many worthy Perſons of the Common Councel And others of the City of <hi>LONDON,</hi> on the Eleventh of this inſtant <hi>December,</hi> To be Agreed unto, and Subſcribed by all the Inhabitants OF England &amp; Wales.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J: Hanes,</hi> Decemb. 22. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162530:2"/>
+            <pb n="3" facs="tcp:162530:2"/>
+            <head>SEVERAL PROPOSALS FOR Peace &amp; Freedom, BY AN AGREEMENT OF THE PEOPLE.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas thoſe His Majeſties failings publiſhed to us and the World by the ſeveral Declarations and Re<g ref="char:EOLhyphen"/>monſtrances of Parliament cannot be denyed, whereby, through the violation of his Oath and Covenant made unto the People at his Coronation, all our late and preſent Woe and Miſeries of War both in <hi>England</hi> and <hi>Ireland</hi> have come; as alſo the great Diviſions amongſt our moſt worthy and eminent perſons of the Commonwealth,
+<pb n="4" facs="tcp:162530:3"/>with the great diſtempered and unconſtant actings and high failings even in the Parliament it ſelf: And for that it is the due Right and Priviledge of the folk or People of this Nation, to make and chooſe our and their Laws by an equal Repreſen<g ref="char:EOLhyphen"/>tative in Parliament, as by the aforeſaid Coronation Oath and Covenant fully appeareth; Therefore the Right Honorable the Lord Major, Aldermen and Common-Councel of the City of <hi>London,</hi> do in the Name of the City, Firſt, Humbly offer unto the Right Honorable, The High Court of Parliament aſ<g ref="char:EOLhyphen"/>ſembled at <hi>Weſtminſter,</hi> this preſent intituled Paper, called, <hi>A Great Agreement of all the People of</hi> England <hi>and</hi> Wales, for their Approbation and Subſcription; and that it may thence be diſmiſſed, and forth with ſent into every part of the Land, to be Agreed on, Conſented to, and Subſcribed by all the Free-born People of the ſame (above the age of Sixteen) on pain for the Refuſers to be excluded and debarred the protection of the Law of the Land; and that all the Subſcriptions may be brought in to the preſent particular Repreſentatives of Parliament, to be Returned and Recorded there for a grand law forever.</p>
+            <div type="proposals">
+               <head>Firſt, We Agree,</head>
+               <p n="1">1. THat the King, by the Advice of his evil Councel, through uſurpring and incroaching upon our Freedoms, and by lea<g ref="char:EOLhyphen"/>ving the Parliament, and leavying a War againſt it, is guilty of all the Blood, vaſt expence of Treaſure, and Ruine that hath been occaſioned by theſe Wars within the Kingdoms of <hi>England</hi> and <hi>Ireland,</hi>
+               </p>
+               <p n="2">II. That if any King of <hi>England</hi> ſhall hereafter challenge to himſelf a Negative Voyce, to the Determinations of the Re<g ref="char:EOLhyphen"/>preſentative in Parliament; and ſhall not according to the Duty of his Kingly Office, Conſent and Sign all ſuch Laws as the People by their Repreſentative, The Commons of <hi>England,</hi> from time to time aſſembling in Parliament, after Confultation had with the Lords therein (when ſitting) ſhall make and chooſe,
+<pb n="5" facs="tcp:162530:3"/>may be depoſed by the ſame Parliament: And that what Sub<g ref="char:EOLhyphen"/>ject of the Nation that ſhall aſſiſt, or ſide with him therein, may upon good proof thereof, not onely from thenceforth be deemed and taken for Enemies to the State, and therefore not onely void of the protection of the Laws, but dealt with as in a caſe of high Treaſon. And that the particular Repreſenta<g ref="char:EOLhyphen"/>tives do from time to time wholly proſecute and purſue in Par<g ref="char:EOLhyphen"/>liament all ſuch Inſtructions as the People for whom they are choſen and ſerve, ſhall at the day of their Elections and after<g ref="char:EOLhyphen"/>wards be required unto. And that no Officer of War, or Mem<g ref="char:EOLhyphen"/>ber of the Committee of State, ſhall be choſen into any firſt next following Parliament, after their diſcharge thereof.</p>
+               <p n="3">III. That in all Laws made or to be made, every perſon may be bound alike; and that no Degree of Lords, Peers of Parlia<g ref="char:EOLhyphen"/>ment (now or hereafter aſſembled) or others, No Tenure, E<g ref="char:EOLhyphen"/>ſtate, Charter or Office ſoever, ſhall confer any exemption from the ordinary Courſe of Juſtice, and Legal Proceedings, whereunto others are ſubjected.</p>
+               <p n="4">IV. That our meanings and intentions are, Not to leave our ſelves lyable to the leaſt of mercy, touching our Freedoms, either of the moſt Righteous, or evil and unrighteous Princes, (diſclaiming confidence in vain man) But knowing that Juſtice of puniſhment ought never to be inflicted, but where in Reaſon it will convert into mercy; and ſeeing that it hath pleaſed God, That a Covenant is paſſed between this Nation and our Bre<g ref="char:EOLhyphen"/>thren of <hi>Scotland,</hi> whereby mercy is claimed by that Nation on his Majeſties behalf: Therefore if the King ſhall Aſſent unto this Agreement, that then He may be Proclaimed and Crowned King again. And who (after the firſt four years in which the Kingdoms Debts may be paid) may in a Parliamen<g ref="char:EOLhyphen"/>tary way have as great an Annual Revenue conferred upon him, as (one year with another of his Reign) was yet ever brought into the Exchequer, notwithſtanding thoſe vaſt illegal ſums thereof, raiſed by the multitude of Monopolies, and deſtroying
+<pb n="6" facs="tcp:162530:4"/>uſurping Projects, Except what ſhall be defalked for ſuch Char<g ref="char:EOLhyphen"/>ges as henceforth ſhall be thought fit to be defrayed by the Par<g ref="char:EOLhyphen"/>liament, which formerly was done by the King.</p>
+               <p n="5">V. That all or any perſon or perſons that ſhall approve, or any way allow of any thing which the King, or any perſon by or under him have done in this late miſerable and deſtructive War, may be dealt with as in a caſe of high Treaſon: And that neither any ſuch who have aſſiſted the King in perſon or other<g ref="char:EOLhyphen"/>wiſe, and ſuch as have approved of any thing done againſt the State in the ſaid War, may not ſit, or have place in the next Parliament, or Voyces in the Elections thereof.</p>
+               <p n="6">VI. That if any perſon or perſons whatſoever, that ſhall any way wilfully endeavor to diſgrace (by approbrious ſpeeches) any perſon or perſons for aſſiſting the King in his War againſt the Parliament, may be bound to the good Behavior, with great Surety for the ſame; And that no man whatſoever be here<g ref="char:EOLhyphen"/>after queſtioned for any thing done in reference to the late pub<g ref="char:EOLhyphen"/>lique Differences ſince the year, 1641. further then in execution of the Judgement of this preſent Parliament.</p>
+               <p n="7">VII. That a general Reviſement may be had of all the Laws and Statutes now in force; and that thoſe intending and re<g ref="char:EOLhyphen"/>lating to the maintenance of Popery, Prelacy, Epiſcopacy, Su<g ref="char:EOLhyphen"/>perſtition, and all Eccleſiaſtical Juriſdiction or Government, and whatſoever elſe that wil not beſt ſtand with the good of the nation according to this preſent age, may be Repealed: And that all thoſe that ſhall be continued unto us, may be put in execution, according to the purity and truth thereof, that the tediouſneſs and long delays formerly exerciſed therein, as alſo all undue practice thereof, may be wholly taken away, ſo as that intended chiefeſt good for the peaceable well-being of the Common<g ref="char:EOLhyphen"/>wealth, may not henceforth be exerciſed to the great diſquiet<g ref="char:EOLhyphen"/>ing and waſting of the people, as formerly (even hitherto) it hath done. And that ſuch ſure proviſions be ſpeedily made, not
+<pb n="7" facs="tcp:162530:4"/>onely for the hinderance and avoiding of all Vagabonds and Beggars, but for a conſcientious and ſufficient Relief for all the poor and indigent people, that none may periſh with want; as alſo for the extirpating of Drunkenneſs and Swearing, upon ſuch high penalties, and ways of incouragement for the proſe<g ref="char:EOLhyphen"/>cutors thereof, as, through God, may wholly take away all thoſe Evils.</p>
+               <p n="8">VIII. That the Excize may continue but until the preſent Engagement thereupon be diſcharged; And that what moneys ſoever the Parliament ſhall be neceſſitated to uſe, may be raiſed by Subſidies and Taxes, and ſuch other open and known ways as may be moſt viſible and apparently equal to the whole Com<g ref="char:EOLhyphen"/>monwealth.</p>
+               <p n="9">IX. That the people being at this time very unequally diſtri<g ref="char:EOLhyphen"/>buted for Electing their Repreſentatives, may be more indif<g ref="char:EOLhyphen"/>ferently proportioned; And that not onely every Freeholder, but Copyholder alſo, that is worth 40 <abbr>s.</abbr> 
+                  <hi>per Annum,</hi> and every other perſon that is worth 50 <abbr>l.</abbr> perſonal Eſtate, may have Voyces in the Election thereof.</p>
+               <p n="10">X. That the people do of courſe chooſe themſelves a Parlia<g ref="char:EOLhyphen"/>ment once every two years, after the moſt free and uncontrol<g ref="char:EOLhyphen"/>able maner, upon pain of high Treaſon to the Diſturbers, over-bearer or over-bearers of any perſon or perſons of the Electi<g ref="char:EOLhyphen"/>ons for ever, and to continue by the ſpace of five Moneths, to begin to ſit upon the firſt Thurſday in every ſecond March; and to begin to ſit upon the firſt Thurſday in April then next enſuing, after the diſſolution of this; and to continue till the laſt day of Auguſt then next following alſo, and no longer; and that this may terminate and end before May 1649.</p>
+               <p n="11">XI. That the Iriſh may not be ſtill proceeded againſt, as to execute cruelty for cruelty, but that both they and thoſe other Offendors of our Brethren of <hi>England</hi> that have not Com<g ref="char:EOLhyphen"/>pounded,
+<pb n="8" facs="tcp:162530:5"/>may yet Compound, and have ſuch Fines ſet upon them, and ſo to be payed, as that with reſpect unto their condi<g ref="char:EOLhyphen"/>tions, may not ruine and undo them and their poſterities, ex<g ref="char:EOLhyphen"/>cept the Beginners and Fomenters of the War.</p>
+               <p n="12">XII. That out of every Parliament there may be a Commit<g ref="char:EOLhyphen"/>tee of State appointed, conſiſting of Forty of the Members thereof, ſix whereof to be out of the City of <hi>London, Weſt<g ref="char:EOLhyphen"/>minſter,</hi> and the Borough of <hi>Southwark;</hi> and the next to be equally proportioned for the ſeveral other Counties, Cities and Towns Corporate of <hi>England</hi> and <hi>Wales,</hi> to Negotiate in the Intervals of Parliament, of all things given them in charge by the ſaid Parliament.</p>
+               <p n="13">XIII. That annually there may be an equal Tax in every Pa<g ref="char:EOLhyphen"/>riſh within the Kingdom of <hi>England</hi> and <hi>Wales,</hi> as well of Lands as Goods, proportionable to that of the accuſtomed Tythes (Impropriations excepted) to be raiſed, leavied and paid into the hands of one or more Treaſurers in every County for that purpoſe, to be paid and iſſued forth again to the Teachers in the Word, as cauſe ſhall require: And that all Tythes of Impropriations may be bought in at ſuch conſcientious Rates as the Committee of State (as hereafter followeth) or Commiſ<g ref="char:EOLhyphen"/>ſioners from them appointed for that purpoſe ſhall think moſt reaſonable and meet.</p>
+               <p n="14">XIV. That whereas God the Creator and Father of Spirits is Omnipotent and unlimited by man, giving to every one a various and different Spirit, of which no man is certainly Ma<g ref="char:EOLhyphen"/>ſter, no, not for a minute, therefore ought Liberty of Conſcience to be granted to all godly Conſcientious walkers (proteſting againſt the State-deſtroying Tenents, as to Peace and Freedom) not onely of the Church of <hi>Rome,</hi> but of Epiſcopal and all Ec<g ref="char:EOLhyphen"/>cleſiaſtical Juriſdiction by Courts and Offices for that purpoſe alſo; yet the way of inſtructing the people is referred to the Miniſtery.</p>
+               <pb n="9" facs="tcp:162530:5"/>
+               <p n="15">15. That all inſlaving Tenures upon Record by Oaths of Fealty, Villanage, Homage, and Fines at will of the Lords, may all be bought in at ſuch rates as ſhall not exceed twenty years purchaſe to the Lord, upon a conſcientious computation of profits made according to the Reign of King <hi>James.</hi>
+               </p>
+               <p n="16">16. That all the Mariſh Lands, Fens and Common Paſtures, within the Kingdom of <hi>England</hi> and <hi>Wales,</hi> may be encloſed and divided, one fourth part to be equally proportioned to the ſeveral Tenants of the ſeveral Pariſhes, where ſuch Land lieth; and another fourth part to the Poor of the ſame; and the other two parts to be divided for, and towards the payment of all the Officers and Souldiers Arrears; To be holden and taken up by Copy of Court-Roll of the proper Lord or Lords of the Soyls, giving and paying the ſum of five ſhillings, <hi>per Acre,</hi> Fine, for Admittance at every Alienation, Change, and Taking up, by death or otherwiſe, if the Annual Rent of every Acre be worth ſo much, or elſe not to exceed the value thereof; and twelve pence <hi>per Acre</hi> at the moſt, or the ſixt part of the yearly value for the Annual Rent of all that fourth part divided among the Poor, and ſix pence <hi>per Acre</hi> at the moſt for the other three parts of the yearly Revenue to be proportioned certainly for ever.</p>
+               <p n="17">17. That his Excellency the <hi>Lord General,</hi> Lieutenant General <hi>Cromwel,</hi> the Lord Mayor of our City, the Earl of <hi>Northumberland,</hi> the Lord <hi>Grey</hi> of <hi>Grooby,</hi> the Lord <hi>Wharton,</hi> Major General <hi>Skippon,</hi> Commiſſary General <hi>Ireton,</hi> Sir <hi>John Potts,</hi> Sir <hi>William Waller,</hi> Sir <hi>William Br<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eton,</hi> Sir <hi>John Maynard,</hi> Colonel <hi>Harlo,</hi> Mr Alderman <hi>Fouke,</hi> Mr Alderman <hi>Gibbs,</hi> Mr <hi>Fran. Allen,</hi> Major General <hi>Maſſey,</hi> Col. <hi>Wilſon,</hi> Col. <hi>Fleetwood,</hi> Col. <hi>Harriſon,</hi> Col. <hi>Ruſſel,</hi> Sir <hi>Arthur Haſlerig,</hi> Sir <hi>Gilbert Pickering,</hi> Sir <hi>Henry Vane</hi> junior, Mr <hi>Perpoint,</hi> Col. <hi>Marten,</hi> Col. <hi>Rigby,</hi> Mr <hi>Holland,</hi> Sir <hi>John Palgrave,</hi> Major <hi>Wildeman,</hi> Lieutenant Colonel <hi>Lilburn,</hi> Col. <hi>Ludlow,</hi> may be a Committee to continue until the firſt day of the next Parliament to re<g ref="char:EOLhyphen"/>gulate, place, diſplace, confirm, commiſſionate or non-commiſſion all Juſtices belonging to the Courts of <hi>Weſtminſter,</hi> with the Officers and Offices thereunto belonging, all-Sheriffs of Counties and Juſtices of Peace, and all other the Officers and Offices whatſoever, formerly occaſioned to be granted by his Majeſty, whether by uſurpation or o<g ref="char:EOLhyphen"/>therwiſe: And after the expiration and end of the aforeſaid Commit<g ref="char:EOLhyphen"/>tee, to be deſpoſed of by ſucceeding Parliaments or Committees of State: And that his Majeſty may degrade all ſuch perſons, either in
+<pb n="10" facs="tcp:162530:6"/>part or in whole, as were the Cauſe and Beginners of the Wars, or the Continuance thereof; as alſo to confirm ſuch honors on ſuch worthy Members as have moſt ſelf-denyingly endeavored our Freedoms, ac<g ref="char:EOLhyphen"/>cording to the judgment and wiſdom of this moſt excellent and ho<g ref="char:EOLhyphen"/>norable Committee, or the major part thereof. And after the expira<g ref="char:EOLhyphen"/>tion of this Committee, that then all ſuch perſons as his Majeſty ſhall for the future dignifie with titles of Honor, as aforeſaid, may firſt have certificate of their Demerits for Services done unto the State, ei<g ref="char:EOLhyphen"/>ther from the Parliament, or Committee of State, as aforeſaid, to ſig<g ref="char:EOLhyphen"/>nifie the ſame.</p>
+               <p n="18">18. That the Earl of <hi>Pembrook,</hi> the Earl of <hi>Denby,</hi> the Earl of <hi>Kent,</hi> Mr Serjeant <hi>St. John,</hi> Lord chief Juſtice of the Common Pleas, Mr Serjeant <hi>Wylde,</hi> Sir <hi>Thomas Wydrington,</hi> the Lord <hi>Liſle,</hi> Sir <hi>John Danvers,</hi> Sir <hi>Henry Myl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>may,</hi> together with his Excellen<g ref="char:EOLhyphen"/>cy the Lord General, Lieutenant General <hi>Cromwel,</hi> the Lord Mayor, with the reſt of the Members of the excellent and honorable Com<g ref="char:EOLhyphen"/>mittee for the regulating of Offices and Officers, may be the Com<g ref="char:EOLhyphen"/>mittee of State for the next enſuing Intervals of Parliament.</p>
+               <p n="19">19. That all Debts, upon the firſt Propoſitions, due upon the Pub<g ref="char:EOLhyphen"/>lique Faith, and all other Moneys and Values, lent upon the fifth and twentieth parts, may be ſatisfied and payd by the Inhabitants in every County within it ſelf, by an equal rate as well of Lands, as Goods, by Commiſſioners to be choſen within themſelves alſo for that pur<g ref="char:EOLhyphen"/>poſe.</p>
+               <p n="20">20. That henceforth no Free-born perſon of this Nation be here<g ref="char:EOLhyphen"/>after preſſed to ſerve in the War.</p>
+               <p n="21">21. That a ſtrict Accompt may be taken of all thoſe perſons that have been Treaſurers, Receivers, or otherwiſe any way intruſted with the Treaſure of the State.</p>
+               <p n="22">22. That all the Dean and Chapters lands may be ſold for payment of the Publique Debts, or for what other uſes the Parliament ſhall think fit; and that all the Soldiers of the new Model now in Arms may ei<g ref="char:EOLhyphen"/>ther be payd by proportions out of the Mariſh Lands, Fens and Com<g ref="char:EOLhyphen"/>mon Paſtures; For every Trooper that is behind, and in Arrear for e<g ref="char:EOLhyphen"/>very year (or proportionable according to that time) the ſum of four pounds <hi>per annum,</hi> during his life, without allowance for Free Quarter, and every Footman the ſum of fifty ſhillings <hi>per annum,</hi> with propor<g ref="char:EOLhyphen"/>tion to time as aforeſaid; and if it ſhall happen that the faid Mariſh Lands, Fens, and Common Paſtures will not be ſufficient to perform the
+<pb n="11" facs="tcp:162530:6"/>ſame, that then it may be made up out of the aforeſaid Deans and Chapters Lands: Conditionally provided, That all ſuch, as ſhall be aſ<g ref="char:EOLhyphen"/>ſigned by the General Councel of the Army for the Service of <hi>Ireland,</hi> do not refuſe the ſame; but that all ſuch, as ſhall be diſmiſſed thither, ſhall have the Fee-ſimple of the ſaid proportions of Land to them and their heirs for ever: And all others, that ſhall deſire to leave the Wars, and ſhall be diſmiſſed the Army by the Councel of War alſo, may forth<g ref="char:EOLhyphen"/>with be ſatisfied their Arrears upon his Excellency's diſcharge.</p>
+               <p n="23">23. That the great Weight and Charge of <hi>Ireland</hi> may be intruſted in a faithful Committee, conſiſting of nine at the leaſt, for ordering that high Affair, whereof two to be Members of the City of <hi>London.</hi>
+               </p>
+               <p n="24">24. That for the fruſtrating of the ſeveral perilous deſigns of the many parties, which are now ſo ſtrongly working to carry on their par<g ref="char:EOLhyphen"/>ticular Intereſts for Ruine and Deſtruction to us; and for the ſetling of a firm Peace in this diſtracted Nation; That after all have ſubſcribed this preſent Agreement for the maintaining of all our juſt Right, by the Power and Authority of Parliament, that then all the Parliaments Forces now in the Kingdom may be paid, or elſe effectually ſatisfied all their Arrers due unto them; be acquitted of all or any paſt fail<g ref="char:EOLhyphen"/>ings, and forthwith diſmiſſed for <hi>Ireland,</hi> with all convenient ſpeed, under their preſent Conduct and Command, except what Forces ſhall be thought meet for the Garriſons of <hi>England</hi> and <hi>Wales;</hi> as alſo that the Lord General may ſtill be continued with us in his Renowned Command (General of <hi>England</hi> and <hi>Wales</hi>) aforeſaid; and that Leiu<g ref="char:EOLhyphen"/>tenant General <hi>Cromwel</hi> may be ſent General into <hi>Ireland</hi> aforeſaid, and have the Command of all the Forces for the reducement thereof; and that the Scots there, being put under the Command aforeſaid, may then be there equally capable with our own in all benefits, priviledges and profits whatſoever, that our mercy and moderation may be known unto all, and that the Lord is our Councell.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
